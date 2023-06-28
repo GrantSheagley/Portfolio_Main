@@ -197,6 +197,13 @@ padding: 50px 40px 50px 40px;
   letter-spacing: 4px;
 }
 
+h5{
+  color:#F4F4F4;
+padding: 50px 40px 50px 40px;
+  letter-spacing: 4px;
+  text-align: center;
+}
+
 #grid {
     max-width:100%;
     margin:0 auto;
