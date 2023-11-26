@@ -172,6 +172,24 @@ i {
   padding: 50px 40px 50px 40px;
 }
 
+.column-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-column, .right-column {
+  width: 50%; /* Each column takes up half the width of the container */
+  padding: 0 20px; /* Add padding on both sides */
+}
+
+.left-column {
+  padding-left: 65px; /* Increase left padding to shift text right */
+}
+
+.right-column {
+  padding-left: 20px; /* Adjust left padding as needed */
+}
+
 .row-fluid {
     width: 100%;
 }
