@@ -312,7 +312,7 @@ padding: 50px 40px 50px 40px;
 
 @media (max-width: 9000px) {
     #grid li {
-        width:33.33%;
+        width:25%;
     }
 }
 
